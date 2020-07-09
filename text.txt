@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <title>AL HASHEM's WEB</title>
+</head>
+<body>
+  <img src="img/20200704224041.png" alt="AL HASHEM PROFILE PIC">
+  <h1>AL HASHEM SAYED</h1>
+  <p> <em>A <strong><a href="https://en.m.wikipedia.org/wiki/Mechanical_engineering">mechanical engineeering</a></strong> student at <strong><a href="http://www.mhssce.ac.in">mhsscoe</a></strong>.</em> </p>
+<br>
+<p> My name is AL HASHEM MOHD YUSUF SAYED. i live in Mumbai. my mother is my love. family over everything. peace</p>
+<hr>
+<h3> EDUCATION </h3>
+<table>
+ <th> DATE </th>
+ <th> QUALIFICATION </th>
+  <tr> 
+   <td> 2014 </td>
+   <td> SSC </td>
+  </tr>
+ <tr> 
+ <td> 2016 </td>
+ <td> HSC </td>
+ </tr>
+ <tr> 
+  <td> 2022 </td>
+  <td> BE </td>
+ </tr>
+ </table>
+ 
+<ul> 
+<li>GAUSIYA KINDERGARDEN SCHOOL </li> <li>SAFA ENGLISH HIGH SCHOOL </li> 
+<li>ANTONIO DE SOUZA HIGH SCHOOL </li>
+<li><a href="http://www.mhssce.ac.in"> MHSSC</a> </li> <li><a href="http://www.jaihindcollege.com">JAI HIND CLG </a>
+</li> <li><a href="http://www.mhssce.ac.in">MHSSCOE</a></li>. 
+</ul>
+ <hr>
+ 
+  <h3> my hobbies </h3>
+  <ol> 
+   <li> playing outdoor sports </li>
+   <li> long rides </li>
+   <li> trying out new food </li>
+   <li> making new friends </li>
+   </ol>
+<hr>
+ <h3> SKILLS </h3>
+<table cellspacing="10">
+<tr> 
+<td>
+  <table cellspacing="10">
+  <tr>
+   <td> Bike riding </td>
+   <td> ⭐⭐⭐ </td>
+  </tr>
+  <tr>
+   <td> Studing </td>
+   <td> ⭐⭐ </td>
+  </tr>
+ <tr>
+ <td> Cricket </td>
+ <td> ⭐⭐</td> 
+</tr>
+ </table> 
+</td>
+<td>
+  <table cellspacing="10">
+  <tr>
+   <td> Bike riding </td>
+   <td> ⭐⭐⭐ </td>
+  </tr>
+  <tr>
+   <td> Studing </td>
+   <td> ⭐⭐ </td>
+  </tr>
+ <tr>
+ <td> Cricket </td>
+ <td> ⭐⭐</td> 
+ </td>
+</tr>
+ </table> 
+</td>
+</tr>
+</table>
+<hr>
+  
+   <a href="contactme.html">contact me</a>
+</body>
+</html>
+
